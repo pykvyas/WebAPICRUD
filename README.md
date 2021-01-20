@@ -1,4 +1,4 @@
-# This app can perform CRUD operation on the Department model
+# This app can perform CRUD operation on the Department model w/ postman
 
 1. Download the .net solution and then build.
 2. Open postman tool on the machine and then downloand the CRUD.postman_collection.json file and export in the postman tool to get the API collection.
